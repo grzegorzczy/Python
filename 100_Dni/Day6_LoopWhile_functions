@@ -1,0 +1,17 @@
+#functions 
+
+print("hello")
+num_char = len("Hello")
+print(num_char)
+
+#my functions
+
+def my_functions():
+    print("Hello")
+    print("Bye")
+
+my_functions() #wywołanie
+
+#Indentation - wcięcie
+
+#Pętla while, nieskoczone, az sie osoagnie warunek, z gory jest prawda, czyli ma byc faslz
